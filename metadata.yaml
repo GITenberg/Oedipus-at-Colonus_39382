@@ -1,0 +1,45 @@
+_version: 0.0.1
+alternative_title: Oedipus at Colonus
+contributor:
+  translator:
+    agent_name: Voutierides, El. P.‏   (Elias P.)
+    aliases:
+    - Voutierides, Elias P.
+    - Boutierides, Elias P.
+    - Voutieridis, Ilias
+    - Βουτιερίδης, Ηλίας
+    birthdate: 1874
+    deathdate: 1941
+    gutenberg_agent_id: '38791'
+    url: http://www.gutenberg.org/2009/agents/38791
+    wikipedia: http://el.wikipedia.org/wiki/Ηλίας_Βουτιερίδης
+covers:
+- cover_type: archival
+  image_path: 39382/39382-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Sophocles
+    alias: Σοφοκλής
+    birthdate: -496
+    deathdate: -406
+    gutenberg_agent_id: '26'
+    url: http://www.gutenberg.org/2009/agents/26
+    wikipedia: http://en.wikipedia.org/wiki/Sophocles
+description: ''
+gutenberg_issued: '2012-04-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39382'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Oedipus (Greek mythological figure) -- Drama'
+- !lcsh 'Tragedies'
+- !lcc 'PA'
+- GITenberg
+title: Οιδίπους επί Κολωνώ
+url: http://www.gutenberg.org/ebooks/39382
